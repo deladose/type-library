@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "GT America Expanded Bold";
+    src: url(/assets/fonts/GT-America-Expanded-Medium.woff) format("woff");
+    font-weight: bold;
+  }
+
+  @font-face {
+    font-family: "Regibility";
+    src: url(/assets/fonts/regibilityVF.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "Modulaire";
+  src: url(/assets/fonts/Modulaire.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Milos";
+  src: url(/assets/fonts/Milos.woff) format("woff");
+}
